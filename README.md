@@ -16,7 +16,6 @@ Currently building full-stack projects at Holberton School. 🚀
 
 ## 📊 GitHub Stats
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaRKkem&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaRKkem&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DaRKkem&theme=radical)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
