@@ -2,6 +2,10 @@
 
 # 👋 Hi, I'm Damien !
 
+The projects showcased on this profile were developed as part of the Holberton School curriculum. Only the most relevant repositories and actual projects are featured here
+
+---
+
 🎓 Student at **Holberton School** | 📍 France, Auvergne-Rhône-Alpes
 📩 damross446@gmail.com | 🔗 [linkedin.com/in/damien-rossi](https://linkedin.com/in/damien-rossi)
 
